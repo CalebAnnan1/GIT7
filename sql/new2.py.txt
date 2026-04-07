@@ -4,4 +4,4 @@ if num % 2 == 0
 elif :
 	print("odd")
 else:
-	print("nothing")
+	print("nothing and more") 
